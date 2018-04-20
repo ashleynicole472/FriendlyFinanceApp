@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.5'
 # DIVISE gem for authetication
 gem 'devise'
+# Fa icons Gem
+gem 'font-awesome-sass', '~> 5.0.9'
 # Twitter bootstrap gem
 gem 'twitter-bootstrap-rails'
 # authetication gem
